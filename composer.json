@@ -2,7 +2,7 @@
     "name": "startupwrench/jobfeed",
     "description": "Aggregate jobs from multiple providers like Indeed, SimplyHired, etc...",
     "homepage": "https://startupwrench.com/projects/laravel-jobfeed",
-    "keywords": ["laravel", "job", "jobs", "indeed", "employment", "jobboard", "job board", "dice", "simplyhired", ],
+    "keywords": ["laravel", "job", "jobs", "indeed", "employment", "jobboard", "job board", "dice", "simplyhired"],
     "license": "MIT",
     "type": "library",
     "authors": [
