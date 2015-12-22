@@ -1,1 +1,1 @@
-Route::get('jobs', 'patrickcurl\jobFeed\JobFeedController@index');
+Route::get('myjobs', 'patrickcurl\jobFeed\JobFeedController@index');
