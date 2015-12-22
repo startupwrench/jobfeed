@@ -1,0 +1,30 @@
+{
+    "name": "startupwrench/jobfeed",
+    "description": "Aggregate jobs from multiple providers like Indeed, SimplyHired, etc...",
+    "homepage": "https://startupwrench.com/projects/laravel-jobfeed",
+    "keywords": ["laravel", "job", "jobs", "indeed", "employment", "jobboard", "job board", "dice", "simplyhired", ],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Patrick Curl",
+            "email": "patrick@startupwrench.com",
+            "role": "Developer",
+            "homepage": "https://startupwrench.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Startupwrench\\Jobfeed": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
